@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Tomek and I'm currently studying at **Akademia Górniczo-Hutnicza in Kraków**.
 
+I working with a team on making chess in Python for a project at our university.
+
+I also like history.
 <!--
 **TomaszStr/TomaszStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
