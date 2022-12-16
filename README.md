@@ -6,6 +6,10 @@ I working with a team on making chess in Python for a project at our university.
 I also like history.
 
 Here is my [**PAGE**](https://tomaszstr.github.io/)
+
+[Link do repozytorium, z którego zrobiłem fork'a.](https://github.com/osm-in/flood-map)
+
+[Artykuł](https://www.sciencedirect.com/science/article/pii/S2212567115016810)
 <!--
 **TomaszStr/TomaszStr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
